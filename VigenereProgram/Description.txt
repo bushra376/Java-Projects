@@ -1,0 +1,3 @@
+Vigenere Program
+
+This program breaks secret messages of Vigenere Cipher in many languages; with or without knowing the keylength and language.
