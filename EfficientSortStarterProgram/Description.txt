@@ -1,0 +1,3 @@
+EfficientSortStarterProgram Program
+
+This program lists earthquake data from the coordinates given to it. It implements the object oriented programming and works as an earthquake sorting algorithm.
